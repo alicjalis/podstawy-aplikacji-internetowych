@@ -10,3 +10,4 @@ body { background-image: url(https://s.lubimyczytac.pl/upload/books/4975000/4975
 h1 { color: blue}
 h1 { color: green}
 /*została zastosowana reguła druga*/
+/* zawsze ostatnia reguła sie wykonuje bo sie i guess nadpisuje?*/
