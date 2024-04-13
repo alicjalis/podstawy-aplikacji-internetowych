@@ -20,7 +20,7 @@ footer p:nth-child(2) {font-weight: bold;}
 html, body {height: 100%;}
 body {display: flex; flex-direction: column;}
 .content {flex: 1 0 auto;}
-footer {flex-shrink: 0;} /* to powoduje ze stopka jest zawsze u dołu*/
+footer {flex-shrink: 0;} 
 @media all and (max-width: 900px) {
     main {flex-wrap: wrap;}
 }
